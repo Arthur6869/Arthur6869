@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/d2bb87b1-95a1-4b5f-a670-609a998f8ad3)## Olá! Eu sou Arthur.
+## Olá! Eu sou Arthur.
 
 
 - 🔭 Hoje trabalho com Front-End...
@@ -24,13 +24,13 @@
 <div>
 
   </a>
-  <a href="https://instagram.com/rafaballerini" target="_blank">
+  <a href="https://instagram.com/Arthur_Silvaaa0" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-32a8c4?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://discord.gg/G9pSgFA5" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
-  <a href="mailto:contato@rafaballerini.tech">
+  <a href="mailto:contato@Arthurdsf100">
     <img src="https://img.shields.io/badge/Gmail-DB4437?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/rafaballerini-4587856a/" target="_blank">
