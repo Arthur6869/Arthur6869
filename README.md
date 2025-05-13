@@ -33,9 +33,10 @@
   <a href="mailto:contato@Arthurdsf100">
     <img src="https://img.shields.io/badge/Gmail-DB4437?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/rafaballerini-4587856a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+ <a href="https://bit.ly/3ETnEvM" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
 </div>
 
 
