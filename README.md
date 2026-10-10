@@ -1,6 +1,6 @@
 ## Olá! Eu sou Arthur. 👋
 
-- 🔭 Hoje trabalho com **Front-End**
+- 🔭 Hoje trabalho com **Analise de Dados**
 - 🌱 Estudando **TypeScript** e **Segurança da Informação**
 - 📫 Contato: **arthurdsf100@gmail.com**
 - 😄 Apaixonado por tecnologia e sempre em busca de novos desafios!
